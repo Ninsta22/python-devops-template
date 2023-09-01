@@ -1,25 +1,16 @@
 [![CI](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-template/actions/workflows/cicd.yml)
-## Template for Python projects 
+## Python Template
 
-1. First thing to do on launch is to open a new shell and verify virtualenv is sourced.
+This is a Python Template, for Mini-Project 1 for IDS 706 Data Engineering
 
 Things included are:
 
-* `Makefile`
+* Makefile
 
-* `Pytest`
+* .devcontainenr
 
-* `pandas`
+* githubactions 
 
-* `Pylint`
+* requirements.txt
 
-* `Dockerfile`
-
-* `GitHub copilot`
-
-* `jupyter` and `ipython` 
-
-* A base set of libraries for devops and web
-
-* `githubactions` 
-
+* README.md
